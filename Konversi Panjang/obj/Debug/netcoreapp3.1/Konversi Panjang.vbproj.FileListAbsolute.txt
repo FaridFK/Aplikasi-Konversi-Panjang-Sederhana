@@ -1,0 +1,15 @@
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.deps.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.runtimeconfig.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.runtimeconfig.dev.json
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.dll
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\bin\Debug\netcoreapp3.1\Konversi Panjang.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.vbprojAssemblyReference.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi_Panjang.Form2.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.vbproj.GenerateResource.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.AssemblyInfoInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.AssemblyInfo.vb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.vbproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.dll
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 3  Data Type and Constant\Konversi Panjang\obj\Debug\netcoreapp3.1\Konversi Panjang.genruntimeconfig.cache
